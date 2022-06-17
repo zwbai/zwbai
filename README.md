@@ -18,5 +18,5 @@
 - [Linkedin](https://www.linkedin.com/in/zhengwei-bai-500921229/)
 
 
-[![Zhengwei's github stats](https://github-readme-stats.vercel.app/api?username=zwbai&theme=material-palenight&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Zhengwei's github stats](https://github-readme-stats.vercel.app/api?username=zwbai&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
