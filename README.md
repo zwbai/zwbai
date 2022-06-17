@@ -5,15 +5,12 @@
 
 
 🔭 **I’m currently working on**:
-
 - **Computer Vision** topics related to **Cooperative Perception** and **Roadside Perception**
 - **Autonomous Driving** topics related to **Decision Making**, **Control**, **Simulation**, and **Cooperative Driving Automation**
 
 
 😄 **I am open to**:
-
-- collaboration opportunities (anytime & anywhere & any type) and 
-- research internships
+- collaboration opportunities and research internships.
 
 📫 **Contact me by**:
 - Email (zbai012 [AT] ucr [DOT] edu)
